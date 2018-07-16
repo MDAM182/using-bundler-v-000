@@ -8,3 +8,5 @@ gem "hashie"
 group :development do
   gem "pry"
 end
+
+gem install sinatra <= 1.4.4
